@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/GabrielMascavo75/Introdu-o-Python/blob/main/15219454f80eb5fdc327d2a6a0e65f5d29f447ab.webp" alt="Capa do Livro" width="300"/>
+<img src="https://github.com/GabrielMascavo75/Introdu-o-Python/blob/main/imagem_ilustrativa" alt="Capa do Livro" width="300"/>
 
 </div>
 
